@@ -28,7 +28,7 @@
 <br/>
 
 <a href="https://github.com/femanix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=femanix&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=femanix&theme=onedark&show_icons=true" />
 </a>
 
 <br/>
