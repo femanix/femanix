@@ -1,11 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=femanix&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistema na <a href="link da sua faculdade">UNOPAR</a>.
-- 💼 &nbsp; Trabalhando como Análista de Suporte Júnior na <a href="LINK DA EMPRESA">Dental Office</a>
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistema na UNOPAR.
+- 💼 &nbsp; Trabalhando como Análista de Suporte Júnior na Dental Office.
 - 🌱 &nbsp; Aprendendo mais sobre Ruby on Rails.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -44,5 +44,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Lima](https://img.shields.io/badge/-Lucas-Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lucasgalima/)
-[![GitHub Femanix]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/femanix))
+[![Linkedin: Lucas Lima](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgalima/)
+[![GitHub Femanix]( https://img.shields.io/github/followers/Femanix?label=follow&style=social)]([https://github.com/femanix])
