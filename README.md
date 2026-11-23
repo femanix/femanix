@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas 👋
+## Lucas Lima, say hello! 👋
 
 Desenvolvedor back-end com **Ruby on Rails**, focado em sistemas que lidam com transações financeiras: pagamentos, conciliação, cobrança e etc. Também cuido do deploy e da operação desses sistemas em produção.
 
