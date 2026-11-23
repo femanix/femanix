@@ -1,23 +1,23 @@
 ## Olá, eu sou o Lucas 👋
 
-Desenvolvedor back-end com **Ruby on Rails**, focado em sistemas que lidam com dinheiro de verdade: pagamentos, conciliação, cobrança e caixa. Também cuido do deploy e da operação desses sistemas em produção.
+Desenvolvedor back-end com **Ruby on Rails**, focado em sistemas que lidam com transações financeiras: pagamentos, conciliação, cobrança e etc. Também cuido do deploy e da operação desses sistemas em produção.
 
 ### 🔧 O que eu construo
 
-**No trabalho, na By Solution (Grupo Onpag)**
+**Hoje fazendo parte da By Solution (Grupo Onpag)**
 
-- API de caixa e estoque multi-cliente em Rails 8 e PostgreSQL, com dados isolados na aplicação e no banco (Row Level Security)
+- APIs back-end, arquitetura completa de administração de caixa, conciliação de pagamento e estoque multi-tenant em Rails 8 e PostgreSQL, com dados isolados na aplicação e no banco (Row Level Security)
 - Painel de conciliação usado pela operação: confirmação de PIX em múltiplas fontes, conciliação com adquirente e crédito de recargas nas APIs de bilhetagem
 - Concorrência, idempotência e estados incertos tratados com cuidado, porque nesse tipo de sistema muita ação não tem desfazer
 
-**Projetos próprios, pela Codeflow**
+**Projetos Codeflow**
 
-- **[Arena Tech](https://sysarena.tech/)**: sistema de gestão para arenas esportivas (matrículas, mensalidades, aluguel de quadra, bar, estoque e financeiro), evoluindo para SaaS multi-tenant
-- Portal de inscrição para eventos com contrato digital e cobrança automática via Asaas
-- API de envio pelo WhatsApp Business (API oficial da Meta), usada como serviço central por outros sistemas
+- **[Arena Tech](https://sysarena.tech/)**: sistema de gestão para arenas esportivas (matrículas, mensalidades, aluguel de quadra, bar, estoque e financeiro).
+- Portal de inscrição e Administração para eventos com contrato digital, biometria e validação documental. cobrança automática via gateway de pagamento, ingração Serpro
+- **[Send Fast API]** Integração com a API oficial da Meta, usada como serviço central por outros sistemas.
 - Integrações de pagamento com Asaas, Stone e Stripe: boleto, Pix, cartão, recorrência e webhooks idempotentes
 
-### 🛠️ Como eu trabalho
+### 🛠️ Operação
 
 - Decisões técnicas registradas em ADRs, com números medidos em produção
 - API tratada como produto: contrato em OpenAPI validado por teste
@@ -46,7 +46,7 @@ Desenvolvedor back-end com **Ruby on Rails**, focado em sistemas que lidam com d
 - Pós-graduação em Cloud e DevOps (Anhanguera)
 - Análise e Desenvolvimento de Sistemas (UNOPAR)
 
-> A maior parte do meu código está em projetos privados de empresas e clientes. Aqui ficam estudos e ferramentas abertas.
+> A maior parte do meu código está em projetos privados de empresas e clientes.
 
 ### 📫 Contato
 
